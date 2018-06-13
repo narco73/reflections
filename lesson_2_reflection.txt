@@ -5,3 +5,19 @@ It makes a new repository, but doesn't commit. It sets up the .git metadata
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 its just a group of files you want to add to you repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can just add things to the staging area one logical change at a time
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When I want to make more than version that has previous features, but has new features moving forward.
+
+How do the diagrams help you visualize the branch structure?
+
+rhetorical question.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+it merges branches. What diagram?
